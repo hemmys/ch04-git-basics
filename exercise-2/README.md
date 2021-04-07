@@ -1,8 +1,8 @@
 # Exercise 2
 
 ![meme](meme.jpg)
-This picture is a complete meme from a horrendous game, Fortnite, which also contains a character from Spongebob Squarepants,
-who is also used in a very popular meme.
+This picture is a complete meme from a horrendous game known as Fortnite. The image also contains a character from Spongebob Squarepants,
+who is also used in a very popular meme. As you can see, there is an inventory with 4 hotbars containing 2 hotbars full of infinite Slurpfish (+40 Combined Health & Shield), a hot bar with infinite Floppers (+50hp), and a hotbar at the far right with infinite Small Fries (+25hp). Long Neck fish seems to be firmly grasping (no pun intended) a flopper and a small fry in one hand, and a big shield potion (+50 Shield) on the other. This deems to be some EPIC LOOT!
 
 Learn the basics of git workflow, including adding new files.
 
