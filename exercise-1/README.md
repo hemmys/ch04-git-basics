@@ -25,9 +25,9 @@ many good editors for markdown.
 5. In the `README.md` file, make an ordered list of what you ate for
 breakfast today
 
-1. Sausage Cheddar Egg Breakfast Sandwich
-2. Chips Ahoy
-3. Chicken Katsu
+  1. Sausage Cheddar Egg Breakfast Sandwich
+  2. Chips Ahoy
+  3. Chicken Katsu
 
 6. Using your terminal, add and commit the changes you've made to your
    repository.  See [Making
