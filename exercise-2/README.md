@@ -1,5 +1,9 @@
 # Exercise 2
 
+![meme](meme.jpg)
+This picture is a complete meme from a horrendous game, Fortnite, which also contains a character from Spongebob Squarepants,
+who is also used in a very popular meme.
+
 Learn the basics of git workflow, including adding new files.
 
 1. **Fork** the repo onto your own github account  
